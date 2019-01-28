@@ -1,3 +1,4 @@
 # 231
 practicing
-learn easily 
+learn smartly
+practice hardly
